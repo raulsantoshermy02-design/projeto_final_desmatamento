@@ -7,7 +7,7 @@
 
 ---
 
-## Fonte dos Dados - PROJETO MAPBIOMAS					
+## Fonte dos Dados / O Que é?				
 
 Projeto MapBiomas – Coleção 10.1 da Série Anual de Mapas de Cobertura e Uso da Terra do Brasil, 
 acessado em 11/05/2026 através do link: [MapBiomas_Brasil_Desmatamento](https://brasil.mapbiomas.org/download/estatisticas/)						
@@ -61,11 +61,11 @@ Funcionalidades do Dashboard:
 
 ---
 
-## Próximos Passos Ideais
+## Oportunidades de Expansão (Backlog)
 
-O dashboard foi projetado com uma arquitetura escalável. 
+O dashboard foi projetado com uma arquitetura escalável.
 
-Pensando nisso, foram mapeadas as seguintes oportunidades de melhoria para eventuais atualizações, conforme a conveniência e disponibilidade de novas bases de dados:
+Abaixo estão algumas frentes de análise mapeadas como potenciais melhorias e caminhos que podem ser explorados no futuro:
 
 | Status | Funcionalidade | Fonte/Tecnologia | Objetivo |
 |---|---|---|---|
